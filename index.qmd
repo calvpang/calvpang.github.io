@@ -1,8 +1,18 @@
 ---
 title: "Calvin Pang"
 subtitle: "Data Scientist | Chemical Engineer"
+image: profile.jpg
+about:
+    template: marquee
+    image-width: 15em
+    links:
+      - icon: github
+        text: Github
+        href: https://github.com/calvpang
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/calv-pang/
 ---
-
 ### About Me
 I'm Calvin, a seasoned professional with over seven years experience in conducting digital transformations across academia, government and industry. I am currently working as a Data Scientist, supporting projects for a variety of industries including defence, environmental science, health, mining and space. My specialisations include data visualisation, machine learning engineering, software development and specialist training.
 

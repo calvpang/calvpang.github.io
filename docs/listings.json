@@ -2,7 +2,9 @@
   {
     "listing": "/events.html",
     "items": [
-      "/events/2022-10-01-NASASpaceApps/index.html"
+      "/events/2022-10-01-NASASpaceApps/index.html",
+      "/events/2023-05-17-AustralianSpaceSummit/index.html",
+      "/events/2023-02-14-MurujugaSymposium/index.html"
     ]
   }
 ]
