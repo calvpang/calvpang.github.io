@@ -16,7 +16,7 @@ about:
 ### About Me
 I'm Calvin, a seasoned professional with over seven years experience in conducting digital transformations across academia, government and industry. I am currently working as a Data Scientist, supporting projects for a variety of industries including defence, environmental science, health, mining and space. My specialisations include data visualisation, machine learning engineering, software development and specialist training.
 
-I am also involved in various STEM outreach initiatives in Western Australia, promoting the growth of the data science field. Please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/calv-pang/).
+I am also involved in various STEM outreach initiatives in Western Australia, promoting the growth of the data science field.
 
 ### Work Experience
 ##### **Data Scientist** - [Curtin Institute for Data Science](https://datascience.curtin.edu.au/)

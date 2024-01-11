@@ -1,0 +1,6 @@
+---
+title: "ResBaz 2022"
+date: "2022-09-09"
+image: "Technical_Training.jpeg"
+---
+Pending Content
