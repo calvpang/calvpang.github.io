@@ -24,6 +24,7 @@ In emergency healthcare, every second counts, yet clinicians often spend a signi
 Electronic Clinical Health Organiser (ECHO) is a cutting edge application powered by advanced speech recognition and natural language processing technologies. Our system seamlessly converts recorded audio input or scanned text into detailed clinical notes with precision in real-time.
 
 This solution offers numerous benefits:
+
 - **Time-saving:** Reduce administrative burden, allowing doctors and nurses to focus on patient care.
 - **Accuracy:** Minimise errors in documentation, ensuring reliable patient records.
 - **Improved Patient Care:** Enable healthcare professionals to make faster, informed decisions, enhancing patient outcomes.
