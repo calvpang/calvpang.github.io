@@ -1,7 +1,15 @@
 ---
-title: "WADSIH - Data and AI Conference"
+title: "Data & AI for Business Conference & Exhibition 2023"
 date: "2023-08-02"
-image: "Group_Photo.jpeg"
+image: "WADSIH_Poster.jpeg"
 ---
 
-Pending Content
+## Overview
+The Data & AI for Business Conference & Exhibition 2023 hosted by WA Data Science Innovation Hub (WADSIH) is a 2-day event which provided an invaluable opportunity to listen to a diverse list of speakers and panellists, all of whom, subject matter experts in their own field. 
+
+## Curtin Institute for Data Science & ASDAF Booth
+As a part of the Curtin Institute for Data Science and Australian Space Data Analytics Facility (ASDAF), I manned the booth and had plenty of opportunities to meet and engage with industry professionals and students within the data science and AI space.
+
+![CIDS Team: Paul Hancock, Calvin Pang, Paul Kim, Trish Radotic, Melanie Johnston-Hollitt, Leah Riungu-Kalliosaari, Christian Proud, Leigh Tyers](Group_Photo.jpeg)
+
+![Maxwell Morris, Calvin Pang, Christian Proud](Candid_Shot.jpeg)

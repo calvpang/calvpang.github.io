@@ -1,7 +1,31 @@
 ---
-title: "WADSIH Health Hackathon 2023"
+title: "WA Health Hackathon 2023"
 date: "2023-10-14"
 image: "ECHO_Slide.png"
 ---
+## Overview
+The 2023 Health Hackathon hosted by WA Data Science Innovation Hub (WADSIH) and backed by the Department of Health, Microsoft, Department of WA North Metropolitan Health Service and WA Life Sciences Innovation Hub provides a platform for participants to address six pressing challenges in WA's healthcare system.
 
-Pending Content
+1. Enhancing the patient flow in Emergency Departments.
+2. Streamlining surgical and operational planning.
+3. Utilising non-health data to optimise Emergency Department operations.
+4. Holistic support for cancer patients through their medical journey.
+5. Integration of AI and machine learning for clinical efficacy.
+6. Revolutionising patient interactions within healthcare processes.
+
+Along with members from the [Curtin Machine Learning Club](https://curtinmachinelearning.club/), I competed in the hackathon as "Code Black Bravo" and created ECHO Copilot.
+
+![Code Black Bravo: Calvin Pang, Peter Pandellis, Maxwell Morris, Milan Marocchi](Team_Photo.JPG)
+
+## ECHO Copilot
+In emergency healthcare, every second counts, yet clinicians often spend a significant amount of time on administrative tasks, creating detailed clinical records. This leads to burnout, delays in patient care, and a potential for errors in documentation. Additionally, ensuring the integrity and security of patient data remains a challenge.
+
+![](ECHO_Slide.png)
+Electronic Clinical Health Organiser (ECHO) is a cutting edge application powered by advanced speech recognition and natural language processing technologies. Our system seamlessly converts recorded audio input or scanned text into detailed clinical notes with precision in real-time.
+
+This solution offers numerous benefits:
+- **Time-saving:** Reduce administrative burden, allowing doctors and nurses to focus on patient care.
+- **Accuracy:** Minimise errors in documentation, ensuring reliable patient records.
+- **Improved Patient Care:** Enable healthcare professionals to make faster, informed decisions, enhancing patient outcomes.
+
+![](ECHO_Presentation.jpg)

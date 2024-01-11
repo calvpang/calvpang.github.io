@@ -1,7 +1,15 @@
 ---
 title: "Astrofest 2023"
 date: "2023-11-18"
-image: "Candid_Shot.jpeg"
+image: "Candid_Shot_2.jpeg"
 ---
+## Overview
+Astrofest is an annual event to provide astronomy enthusiasts, families, and the public to explore the mysteries of the Universe.
+Major sponsors include: Curtin University, International Centre for Radio Astronomy Research, Scitech, CSIRO & Department of Industry, Science and Resources.
 
-Pending Content
+## ASDAF Booth
+The Australian Space Data Analytics Facility (ASDAF) hosted a booth at Astrofest, drawing in a huge crowd!
+We held colouring in and Lego building competitions for all ages, with Lego prizes up for grabs.
+I had multiple opportunities to talk to potential STEM students and job seekers about the burgeoning space industry in Western Australia.
+
+![](Candid_Shot.jpeg)
