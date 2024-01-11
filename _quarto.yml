@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Calvin Pang"
+  navbar:
+    title: false
+    background: "secondary"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Events"
+        href: events.qmd
+    tools:
+      - icon: github
+        href: https://github.com/calvpang
+      - icon: linkedin
+        href: https://www.linkedin.com/in/calv-pang/
+  back-to-top-navigation: true
+  page-footer: "Copyright 2024, Calvin Pang"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
