@@ -3,4 +3,5 @@ title: "Software Carpentries Training - Python"
 date: "2023-11-29"
 image: "Instructor_Photo.jpeg"
 ---
+
 Pending Content
