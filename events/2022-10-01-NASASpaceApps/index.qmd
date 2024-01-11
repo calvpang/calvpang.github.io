@@ -1,0 +1,26 @@
+---
+title: "2022 NASA Space Apps Challenge"
+date: "2022-10-01"
+image: "FlatMoonSociety.png"
+---
+
+The [NASA Space Apps Challenge](https://www-2022.spaceappschallenge.org/) is a global hackathon to create solutions to challenges we face on Earth and in space. As part of the Curtin Institute for Computation, I competed in a team called the [Flat Moon Society](https://2022.spaceappschallenge.org/challenges/2022-challenges/moonquake-map/teams/flat-moon-society-aus/project) in Perth, Western Australia. We came **first place** in the local selection and received an **honorable mention** as global finalists.
+
+![*Flat Moon Society: Nick Swainston, Calvin Pang, Paul Hancock, Theodora Papdimatos, Trish Radotic, Leigh Tyers*](Team_Photo.jpeg){fig-align="center"}
+
+## Moonquake Emergency Warning System
+Our solution, [MEWS](https://github.com/calvpang/MEWS) was the Moonquake Emergency Warning System.
+
+![](MEWS.jpeg){height=50%, width=50%}
+
+
+It consists of three main components:
+
+1. A centralised and standardised database for the storage and dissemination of moonquake data;
+2. A visualisation tool (see demo below) of the 3D moonquake map that we developed to demonstrate the utility of the data as it would be used in one of our apps; and
+3. The [Moonquake Emergency Warning System (MEWS)](https://flatmoonsociety.my.canva.site/), the application of our3D moonquake mapping solution in the form of a three-tiered product that provides targeted information to educators, analysts, and remote operators.
+
+::: {#MEWS}
+<iframe width="1100" height="760"
+src="MoonquakeMap.html"></iframe>
+:::

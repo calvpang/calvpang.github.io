@@ -1,7 +1,36 @@
 ---
 title: "Calvin Pang"
+subtitle: "Data Scientist | Chemical Engineer"
 ---
 
-This is a Quarto website.
+### About Me
+I'm Calvin, a seasoned professional with over seven years experience in conducting digital transformations across academia, government and industry. I am currently working as a Data Scientist, supporting projects for a variety of industries including defence, environmental science, health, mining and space. My specialisations include data visualisation, machine learning engineering, software development and specialist training.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am also involved in various STEM outreach initiatives in Western Australia, promoting the growth of the data science field. Please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/calv-pang/).
+
+### Work Experience
+##### **Data Scientist** - [Curtin Institute for Data Science](https://datascience.curtin.edu.au/)
+*January 2022 - Present*
+
+##### **Data Scientist** - [Australian Space Data Analytics Facility](https://asdaf.space/)
+*January 2022 - Present*
+
+##### **Sessional Academic** - [Curtin University](https://www.curtin.edu.au/)
+*March 2021 - Present*
+
+- Tutor for Fundamentals of Programming (COMP1005/COMP5005) and Data Structures & Algorithms (COMP1002/COMP5008)
+
+##### **Continuous Improvement Lead** - [Allied Dental](https://www.allieddental.com.au/) & [Centre for Prosthodontics](https://centreforprosthodontics.com.au/)
+*May 2018 - January 2022*
+
+
+##### **Support Analyst** - [Kinetic IT](https://kineticit.com.au/)
+*June 2016 - January 2018*
+
+
+### Education
+##### **Masters of Predictive Analytics** - Curtin University
+
+##### **Bachelor of Chemical Engineering** - University of Western Australia
+
+##### **Bachelor of Commerce** - University of Western Australia
