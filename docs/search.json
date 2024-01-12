@@ -2,37 +2,170 @@
   {
     "objectID": "events/2023-09-06-FameLab/index.html",
     "href": "events/2023-09-06-FameLab/index.html",
-    "title": "FameLab 2023",
+    "title": "FameLab Research Expo 2023",
+    "section": "",
+    "text": "The Foundation for the WA Museum hosted FameLab Academy, the student version of the international science communication and training program, FameLab. It is an initiative for Years 9 and 10 students to encourage their interest in STEM and develop their science communications skills."
+  },
+  {
+    "objectID": "events/2023-09-06-FameLab/index.html#overview",
+    "href": "events/2023-09-06-FameLab/index.html#overview",
+    "title": "FameLab Research Expo 2023",
+    "section": "",
+    "text": "The Foundation for the WA Museum hosted FameLab Academy, the student version of the international science communication and training program, FameLab. It is an initiative for Years 9 and 10 students to encourage their interest in STEM and develop their science communications skills."
+  },
+  {
+    "objectID": "events/2023-09-06-FameLab/index.html#research-expo",
+    "href": "events/2023-09-06-FameLab/index.html#research-expo",
+    "title": "FameLab Research Expo 2023",
+    "section": "Research Expo",
+    "text": "Research Expo\nThe Australian Space Data Analysis Facility (ASDAF) were invited to host a booth at their Research Expo, as part of the 2023 FameLab Academy Final held in Perth.\n\nHere, we had to opportunity to discuss with potential STEM students on potential education pathways to get into the space and data science professions."
+  },
+  {
+    "objectID": "events/2023-10-14-HealthHackathon/index.html",
+    "href": "events/2023-10-14-HealthHackathon/index.html",
+    "title": "WA Health Hackathon 2023",
+    "section": "",
+    "text": "The 2023 Health Hackathon hosted by WA Data Science Innovation Hub (WADSIH) and backed by the Department of Health, Microsoft, Department of WA North Metropolitan Health Service and WA Life Sciences Innovation Hub provides a platform for participants to address six pressing challenges in WA’s healthcare system.\n\nEnhancing the patient flow in Emergency Departments.\nStreamlining surgical and operational planning.\nUtilising non-health data to optimise Emergency Department operations.\nHolistic support for cancer patients through their medical journey.\nIntegration of AI and machine learning for clinical efficacy.\nRevolutionising patient interactions within healthcare processes.\n\nAlong with members from the Curtin Machine Learning Club, I competed in the hackathon as “Code Black Bravo” and created ECHO Copilot.\n\n\n\nCode Black Bravo: Calvin Pang, Peter Pandellis, Maxwell Morris, Milan Marocchi"
+  },
+  {
+    "objectID": "events/2023-10-14-HealthHackathon/index.html#overview",
+    "href": "events/2023-10-14-HealthHackathon/index.html#overview",
+    "title": "WA Health Hackathon 2023",
+    "section": "",
+    "text": "The 2023 Health Hackathon hosted by WA Data Science Innovation Hub (WADSIH) and backed by the Department of Health, Microsoft, Department of WA North Metropolitan Health Service and WA Life Sciences Innovation Hub provides a platform for participants to address six pressing challenges in WA’s healthcare system.\n\nEnhancing the patient flow in Emergency Departments.\nStreamlining surgical and operational planning.\nUtilising non-health data to optimise Emergency Department operations.\nHolistic support for cancer patients through their medical journey.\nIntegration of AI and machine learning for clinical efficacy.\nRevolutionising patient interactions within healthcare processes.\n\nAlong with members from the Curtin Machine Learning Club, I competed in the hackathon as “Code Black Bravo” and created ECHO Copilot.\n\n\n\nCode Black Bravo: Calvin Pang, Peter Pandellis, Maxwell Morris, Milan Marocchi"
+  },
+  {
+    "objectID": "events/2023-10-14-HealthHackathon/index.html#echo-copilot",
+    "href": "events/2023-10-14-HealthHackathon/index.html#echo-copilot",
+    "title": "WA Health Hackathon 2023",
+    "section": "ECHO Copilot",
+    "text": "ECHO Copilot\nIn emergency healthcare, every second counts, yet clinicians often spend a significant amount of time on administrative tasks, creating detailed clinical records. This leads to burnout, delays in patient care, and a potential for errors in documentation. Additionally, ensuring the integrity and security of patient data remains a challenge.\n Electronic Clinical Health Organiser (ECHO) is a cutting edge application powered by advanced speech recognition and natural language processing technologies. Our system seamlessly converts recorded audio input or scanned text into detailed clinical notes with precision in real-time.\nThis solution offers numerous benefits:\n\nTime-saving: Reduce administrative burden, allowing doctors and nurses to focus on patient care.\nAccuracy: Minimise errors in documentation, ensuring reliable patient records.\nImproved Patient Care: Enable healthcare professionals to make faster, informed decisions, enhancing patient outcomes."
+  },
+  {
+    "objectID": "events/2023-05-17-AustralianSpaceSummit/index.html",
+    "href": "events/2023-05-17-AustralianSpaceSummit/index.html",
+    "title": "Australian Space Summit & Awards 2023",
+    "section": "",
+    "text": "The Australian Space Summit & Awards was back for its second consequetive year at the International Convention Centre Sydney to provide an opportunity to showcase Australia’s space capabilities, from small and large businesses through to educational, government, commercial and industrial sectors.\nAs part of the Australian Space Data Analysis Facility (ASDAF), nominated for “Business of the Year - SME”, I had the opportunity to fly over to Sydney. This gave me the opportunity to learn more about Australia’s space industry and network with diverse people from academia, defence, engineering and legal."
+  },
+  {
+    "objectID": "events/2023-05-17-AustralianSpaceSummit/index.html#overview",
+    "href": "events/2023-05-17-AustralianSpaceSummit/index.html#overview",
+    "title": "Australian Space Summit & Awards 2023",
+    "section": "",
+    "text": "The Australian Space Summit & Awards was back for its second consequetive year at the International Convention Centre Sydney to provide an opportunity to showcase Australia’s space capabilities, from small and large businesses through to educational, government, commercial and industrial sectors.\nAs part of the Australian Space Data Analysis Facility (ASDAF), nominated for “Business of the Year - SME”, I had the opportunity to fly over to Sydney. This gave me the opportunity to learn more about Australia’s space industry and network with diverse people from academia, defence, engineering and legal."
+  },
+  {
+    "objectID": "events/2023-05-17-AustralianSpaceSummit/index.html#australian-space-summit",
+    "href": "events/2023-05-17-AustralianSpaceSummit/index.html#australian-space-summit",
+    "title": "Australian Space Summit & Awards 2023",
+    "section": "Australian Space Summit",
+    "text": "Australian Space Summit\nThe Australian Space Summit kicked off with an industry update on the current state of play in the sector, followed by many presentations and booths showcasing the work of Australia’s space sector.\n\n\n\nWA Space Industry Representatives: AROSE, ISC, ASDAF, Fugro, Curtin University and others"
+  },
+  {
+    "objectID": "events/2023-05-17-AustralianSpaceSummit/index.html#australian-space-awards",
+    "href": "events/2023-05-17-AustralianSpaceSummit/index.html#australian-space-awards",
+    "title": "Australian Space Summit & Awards 2023",
+    "section": "Australian Space Awards",
+    "text": "Australian Space Awards\nASDAF and ASDAF Director, Melanie Johnston-Hollitt were nominated for two awards at the Australian Space Awards 2023.\n\nBusiness of the Year - SME\nExecutive of the Year\n\nAlthough we did not win, we had an amazing night at the awards gala!\n\n\n\nWA Space Industry Representatives: AROSE, ISC, ASDAF, Fugro, Curtin University and others"
+  },
+  {
+    "objectID": "events/2023-08-12-AntiConference/index.html",
+    "href": "events/2023-08-12-AntiConference/index.html",
+    "title": "National Science Week - Anti-Conference",
     "section": "",
     "text": "Pending Content\n\n\n\n Back to top"
   },
   {
-    "objectID": "events/2023-11-29-SoftwareCarpentry/index.html",
-    "href": "events/2023-11-29-SoftwareCarpentry/index.html",
-    "title": "Software Carpentries Training - Python Workshop",
+    "objectID": "events/2022-10-01-NASASpaceApps/index.html",
+    "href": "events/2022-10-01-NASASpaceApps/index.html",
+    "title": "NASA Space Apps Challenge 2022",
+    "section": "",
+    "text": "The NASA Space Apps Challenge is a global hackathon to create solutions to challenges we face on Earth and in space. As part of the Curtin Institute for Computation, I competed in a team called the Flat Moon Society in Perth, Western Australia. We came first place in the local selection and received an honorable mention as global finalists.\n\n\n\nFlat Moon Society: Nick Swainston, Calvin Pang, Paul Hancock, Theodora Papdimatos, Trish Radotic, Leigh Tyers"
+  },
+  {
+    "objectID": "events/2022-10-01-NASASpaceApps/index.html#overview",
+    "href": "events/2022-10-01-NASASpaceApps/index.html#overview",
+    "title": "NASA Space Apps Challenge 2022",
+    "section": "",
+    "text": "The NASA Space Apps Challenge is a global hackathon to create solutions to challenges we face on Earth and in space. As part of the Curtin Institute for Computation, I competed in a team called the Flat Moon Society in Perth, Western Australia. We came first place in the local selection and received an honorable mention as global finalists.\n\n\n\nFlat Moon Society: Nick Swainston, Calvin Pang, Paul Hancock, Theodora Papdimatos, Trish Radotic, Leigh Tyers"
+  },
+  {
+    "objectID": "events/2022-10-01-NASASpaceApps/index.html#moonquake-emergency-warning-system",
+    "href": "events/2022-10-01-NASASpaceApps/index.html#moonquake-emergency-warning-system",
+    "title": "NASA Space Apps Challenge 2022",
+    "section": "Moonquake Emergency Warning System",
+    "text": "Moonquake Emergency Warning System\nOur solution, MEWS was the Moonquake Emergency Warning System.\n\nIt consists of three main components:\n\nA centralised and standardised database for the storage and dissemination of moonquake data;\nA visualisation tool (see demo below) of the 3D moonquake map that we developed to demonstrate the utility of the data as it would be used in one of our apps; and\nThe Moonquake Emergency Warning System (MEWS), the application of our3D moonquake mapping solution in the form of a three-tiered product that provides targeted information to educators, analysts, and remote operators."
+  },
+  {
+    "objectID": "events/2023-11-29-DataCarpentry/index.html",
+    "href": "events/2023-11-29-DataCarpentry/index.html",
+    "title": "Data Carpentries Training - Python Workshop",
     "section": "",
     "text": "Overview\nThe Curtin Institute for Data Science hosts Data Carpentry Workshops twice a year to assist in The Carpentries’ mission to build global capacity in essential data and computational skills for research. These workshops aim to provide hands-on teaching and assistance on Git, Python and R to Curtin University researchers and staff.\n\n\nPython Workshop\nThis time around, I received the opportunity to re-write the training material for the Python workshop and had the pleasure to instruct with Nancy Tippaya. Many thanks to the helpers involved!\n\n\n\nInstructors & Helpers: Calvin Pang, Leigh Tyers, Nancy Tippaya, Christian Proud\n\n\nThe workshop material can be found here.\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "events/2023-02-14-MurujugaSymposium/index.html",
-    "href": "events/2023-02-14-MurujugaSymposium/index.html",
-    "title": "Science at Murujuga Symposium",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "The Murujuga Rock Art Monitoring Program (MRAMP) is an initiative supported by the Department of Water and Environmental Regulation in partnership with Murujuga Aboriginal Corporation. The program aims to collect and collate data and information to enable informed decision making concerning the conservation of ancient rock art found in Murujuga, Western Australia. Its purpose is to monitor, evaluate and report on changes in the condition and integrity of the rock art to ensure that appropriate management responses can be taken by the Western Australian Government and various stakeholders to protect the significant cultural heritage site for future generations.\nThe Science at Murujuga Symposium was held at The University of Western Australia’s Oceans Institute Auditorium on the 14th February 2023, the same date the World Heritage Nomination was formally submitted for Murujuga."
+    "text": "Back to top"
   },
   {
-    "objectID": "events/2023-02-14-MurujugaSymposium/index.html#overview",
-    "href": "events/2023-02-14-MurujugaSymposium/index.html#overview",
-    "title": "Science at Murujuga Symposium",
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
     "section": "",
-    "text": "The Murujuga Rock Art Monitoring Program (MRAMP) is an initiative supported by the Department of Water and Environmental Regulation in partnership with Murujuga Aboriginal Corporation. The program aims to collect and collate data and information to enable informed decision making concerning the conservation of ancient rock art found in Murujuga, Western Australia. Its purpose is to monitor, evaluate and report on changes in the condition and integrity of the rock art to ensure that appropriate management responses can be taken by the Western Australian Government and various stakeholders to protect the significant cultural heritage site for future generations.\nThe Science at Murujuga Symposium was held at The University of Western Australia’s Oceans Institute Auditorium on the 14th February 2023, the same date the World Heritage Nomination was formally submitted for Murujuga."
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\nData Carpentries Training - Python Workshop\n\n\n\n\n\n\n\n\n\n\n\nNov 29, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nAstrofest 2023\n\n\n\n\n\n\n\n\n\n\n\nNov 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nWA Health Hackathon 2023\n\n\n\n\n\n\n\n\n\n\n\nOct 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nFameLab Research Expo 2023\n\n\n\n\n\n\n\n\n\n\n\nSep 6, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nNational Science Week - Anti-Conference\n\n\n\n\n\n\n\n\n\n\n\nAug 12, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nData & AI for Business Conference & Exhibition 2023\n\n\n\n\n\n\n\n\n\n\n\nAug 2, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nAustralian Space Summit & Awards 2023\n\n\n\n\n\n\n\n\n\n\n\nMay 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nCapricorn Space and ESA New Norcia Site Visit\n\n\n\n\n\n\n\n\n\n\n\nMay 1, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nScience at Murujuga Symposium\n\n\n\n\n\n\n\n\n\n\n\nFeb 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nNASA Space Apps Challenge 2022\n\n\n\n\n\n\n\n\n\n\n\nOct 1, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nResBaz 2022\n\n\n\n\n\n\n\n\n\n\n\nSep 9, 2022\n\n\n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
-    "objectID": "events/2023-02-14-MurujugaSymposium/index.html#real-time-air-quality-monitoring-at-murujuga",
-    "href": "events/2023-02-14-MurujugaSymposium/index.html#real-time-air-quality-monitoring-at-murujuga",
-    "title": "Science at Murujuga Symposium",
-    "section": "Real-time Air Quality Monitoring at Murujuga",
-    "text": "Real-time Air Quality Monitoring at Murujuga\nA key aspect of the MRAMP involves deploying custom air quality monitoring stations at rock art sites to identify potential risks, such as pollution and climate change.\nAt the symposium, I had the opportunity to present my work titled “Real-time Air Quality Monitoring at Murujuga”. This covered the work done in establishing the infrastructure required to facilitate remote operation, data ingestion and real-time data visualisation for a bespoke air quality monitoring network developed to investigate the impacts of industrial emissions on heritage nominated indigenous petroglyphs."
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Calvin Pang",
+    "section": "",
+    "text": "About Me\nI’m Calvin, a seasoned professional with over seven years experience in conducting digital transformations across academia, government and industry. I am currently working as a Data Scientist, supporting projects for a variety of industries including defence, environmental science, health, mining and space. My specialisations include data visualisation, machine learning engineering, software development and specialist training.\nI am also involved in various STEM outreach initiatives in Western Australia, promoting the growth of the data science field.\n\n\nWork Experience\n\nData Scientist - Curtin Institute for Data Science\nJanuary 2022 - Present\n\n\nData Scientist - Australian Space Data Analytics Facility\nJanuary 2022 - Present\n\n\nSessional Academic - Curtin University\nMarch 2021 - Present\n\nTutor for Fundamentals of Programming (COMP1005/COMP5005) and Data Structures & Algorithms (COMP1002/COMP5008)\n\n\n\nContinuous Improvement Lead - Allied Dental & Centre for Prosthodontics\nMay 2018 - January 2022\n\n\nSupport Analyst - Kinetic IT\nJune 2016 - January 2018\n\n\n\nEducation\n\nMasters of Predictive Analytics - Curtin University\n\n\nBachelor of Chemical Engineering - University of Western Australia\n\n\nBachelor of Commerce - University of Western Australia\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "events/2023-08-02-WADSIHConference/index.html",
+    "href": "events/2023-08-02-WADSIHConference/index.html",
+    "title": "Data & AI for Business Conference & Exhibition 2023",
+    "section": "",
+    "text": "The Data & AI for Business Conference & Exhibition 2023 hosted by WA Data Science Innovation Hub (WADSIH) is a 2-day event which provided an invaluable opportunity to listen to a diverse list of speakers and panellists, all of whom, subject matter experts in their own field."
+  },
+  {
+    "objectID": "events/2023-08-02-WADSIHConference/index.html#overview",
+    "href": "events/2023-08-02-WADSIHConference/index.html#overview",
+    "title": "Data & AI for Business Conference & Exhibition 2023",
+    "section": "",
+    "text": "The Data & AI for Business Conference & Exhibition 2023 hosted by WA Data Science Innovation Hub (WADSIH) is a 2-day event which provided an invaluable opportunity to listen to a diverse list of speakers and panellists, all of whom, subject matter experts in their own field."
+  },
+  {
+    "objectID": "events/2023-08-02-WADSIHConference/index.html#curtin-institute-for-data-science-asdaf-booth",
+    "href": "events/2023-08-02-WADSIHConference/index.html#curtin-institute-for-data-science-asdaf-booth",
+    "title": "Data & AI for Business Conference & Exhibition 2023",
+    "section": "Curtin Institute for Data Science & ASDAF Booth",
+    "text": "Curtin Institute for Data Science & ASDAF Booth\nAs a part of the Curtin Institute for Data Science and Australian Space Data Analytics Facility (ASDAF), I manned the booth and had plenty of opportunities to meet and engage with industry professionals and students within the data science and AI space.\n\n\n\nCIDS Team: Paul Hancock, Calvin Pang, Paul Kim, Trish Radotic, Melanie Johnston-Hollitt, Leah Riungu-Kalliosaari, Christian Proud, Leigh Tyers\n\n\n\n\n\nMaxwell Morris, Calvin Pang, Christian Proud"
+  },
+  {
+    "objectID": "events/2023-11-18-Astrofest/index.html",
+    "href": "events/2023-11-18-Astrofest/index.html",
+    "title": "Astrofest 2023",
+    "section": "",
+    "text": "Astrofest is an annual event to provide astronomy enthusiasts, families, and the public to explore the mysteries of the Universe. Major sponsors include: Curtin University, International Centre for Radio Astronomy Research, Scitech, CSIRO & Department of Industry, Science and Resources."
+  },
+  {
+    "objectID": "events/2023-11-18-Astrofest/index.html#overview",
+    "href": "events/2023-11-18-Astrofest/index.html#overview",
+    "title": "Astrofest 2023",
+    "section": "",
+    "text": "Astrofest is an annual event to provide astronomy enthusiasts, families, and the public to explore the mysteries of the Universe. Major sponsors include: Curtin University, International Centre for Radio Astronomy Research, Scitech, CSIRO & Department of Industry, Science and Resources."
+  },
+  {
+    "objectID": "events/2023-11-18-Astrofest/index.html#asdaf-booth",
+    "href": "events/2023-11-18-Astrofest/index.html#asdaf-booth",
+    "title": "Astrofest 2023",
+    "section": "ASDAF Booth",
+    "text": "ASDAF Booth\nThe Australian Space Data Analytics Facility (ASDAF) hosted a booth at Astrofest, drawing in a huge crowd! We held colouring in and Lego building competitions for all ages, with Lego prizes up for grabs. I had multiple opportunities to talk to potential STEM students and job seekers about the burgeoning space industry in Western Australia."
   },
   {
     "objectID": "events/2023-05-01-SpaceTour/index.html",
@@ -70,123 +203,25 @@
     "text": "New Norcia Deep Space Ground Station\nNew Norcia, Western Australia hosts one of only three European Space Agency (ESA) Deep Space Ground Stations. It is locally operated by CSIRO and plays a vital role in ESA’s global tracking station network, providing crucial support to ESA’s rocket launches and sattelite missions.\nHosted by Suzie Jackson, we were given the opportunity to tour the site and enter the massive Deep Space Antenna where we learnt about aerogel and the various redundant systems the have in place."
   },
   {
-    "objectID": "events/2023-11-18-Astrofest/index.html",
-    "href": "events/2023-11-18-Astrofest/index.html",
-    "title": "Astrofest 2023",
+    "objectID": "events/2023-02-14-MurujugaSymposium/index.html",
+    "href": "events/2023-02-14-MurujugaSymposium/index.html",
+    "title": "Science at Murujuga Symposium",
     "section": "",
-    "text": "Astrofest is an annual event to provide astronomy enthusiasts, families, and the public to explore the mysteries of the Universe. Major sponsors include: Curtin University, International Centre for Radio Astronomy Research, Scitech, CSIRO & Department of Industry, Science and Resources."
+    "text": "The Murujuga Rock Art Monitoring Program (MRAMP) is an initiative supported by the Department of Water and Environmental Regulation in partnership with Murujuga Aboriginal Corporation. The program aims to collect and collate data and information to enable informed decision making concerning the conservation of ancient rock art found in Murujuga, Western Australia. Its purpose is to monitor, evaluate and report on changes in the condition and integrity of the rock art to ensure that appropriate management responses can be taken by the Western Australian Government and various stakeholders to protect the significant cultural heritage site for future generations.\nThe Science at Murujuga Symposium was held at The University of Western Australia’s Oceans Institute Auditorium on the 14th February 2023, the same date the World Heritage Nomination was formally submitted for Murujuga."
   },
   {
-    "objectID": "events/2023-11-18-Astrofest/index.html#overview",
-    "href": "events/2023-11-18-Astrofest/index.html#overview",
-    "title": "Astrofest 2023",
+    "objectID": "events/2023-02-14-MurujugaSymposium/index.html#overview",
+    "href": "events/2023-02-14-MurujugaSymposium/index.html#overview",
+    "title": "Science at Murujuga Symposium",
     "section": "",
-    "text": "Astrofest is an annual event to provide astronomy enthusiasts, families, and the public to explore the mysteries of the Universe. Major sponsors include: Curtin University, International Centre for Radio Astronomy Research, Scitech, CSIRO & Department of Industry, Science and Resources."
+    "text": "The Murujuga Rock Art Monitoring Program (MRAMP) is an initiative supported by the Department of Water and Environmental Regulation in partnership with Murujuga Aboriginal Corporation. The program aims to collect and collate data and information to enable informed decision making concerning the conservation of ancient rock art found in Murujuga, Western Australia. Its purpose is to monitor, evaluate and report on changes in the condition and integrity of the rock art to ensure that appropriate management responses can be taken by the Western Australian Government and various stakeholders to protect the significant cultural heritage site for future generations.\nThe Science at Murujuga Symposium was held at The University of Western Australia’s Oceans Institute Auditorium on the 14th February 2023, the same date the World Heritage Nomination was formally submitted for Murujuga."
   },
   {
-    "objectID": "events/2023-11-18-Astrofest/index.html#asdaf-booth",
-    "href": "events/2023-11-18-Astrofest/index.html#asdaf-booth",
-    "title": "Astrofest 2023",
-    "section": "ASDAF Booth",
-    "text": "ASDAF Booth\nThe Australian Space Data Analytics Facility (ASDAF) hosted a booth at Astrofest, drawing in a huge crowd! We held colouring in and Lego building competitions for all ages, with Lego prizes up for grabs. I had multiple opportunities to talk to potential STEM students and job seekers about the burgeoning space industry in Western Australia."
-  },
-  {
-    "objectID": "events/2023-08-02-WADSIHConference/index.html",
-    "href": "events/2023-08-02-WADSIHConference/index.html",
-    "title": "Data & AI for Business Conference & Exhibition 2023",
-    "section": "",
-    "text": "The Data & AI for Business Conference & Exhibition 2023 hosted by WA Data Science Innovation Hub (WADSIH) is a 2-day event which provided an invaluable opportunity to listen to a diverse list of speakers and panellists, all of whom, subject matter experts in their own field."
-  },
-  {
-    "objectID": "events/2023-08-02-WADSIHConference/index.html#overview",
-    "href": "events/2023-08-02-WADSIHConference/index.html#overview",
-    "title": "Data & AI for Business Conference & Exhibition 2023",
-    "section": "",
-    "text": "The Data & AI for Business Conference & Exhibition 2023 hosted by WA Data Science Innovation Hub (WADSIH) is a 2-day event which provided an invaluable opportunity to listen to a diverse list of speakers and panellists, all of whom, subject matter experts in their own field."
-  },
-  {
-    "objectID": "events/2023-08-02-WADSIHConference/index.html#curtin-institute-for-data-science-asdaf-booth",
-    "href": "events/2023-08-02-WADSIHConference/index.html#curtin-institute-for-data-science-asdaf-booth",
-    "title": "Data & AI for Business Conference & Exhibition 2023",
-    "section": "Curtin Institute for Data Science & ASDAF Booth",
-    "text": "Curtin Institute for Data Science & ASDAF Booth\nAs a part of the Curtin Institute for Data Science and Australian Space Data Analytics Facility (ASDAF), I manned the booth and had plenty of opportunities to meet and engage with industry professionals and students within the data science and AI space.\n\n\n\nCIDS Team: Paul Hancock, Calvin Pang, Paul Kim, Trish Radotic, Melanie Johnston-Hollitt, Leah Riungu-Kalliosaari, Christian Proud, Leigh Tyers\n\n\n\n\n\nMaxwell Morris, Calvin Pang, Christian Proud"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "Events",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\nSoftware Carpentries Training - Python Workshop\n\n\n\n\n\n\n\n\n\n\n\nNov 29, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nAstrofest 2023\n\n\n\n\n\n\n\n\n\n\n\nNov 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nWA Health Hackathon 2023\n\n\n\n\n\n\n\n\n\n\n\nOct 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nFameLab 2023\n\n\n\n\n\n\n\n\n\n\n\nSep 6, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nNational Science Week - Anti-Conference\n\n\n\n\n\n\n\n\n\n\n\nAug 12, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nData & AI for Business Conference & Exhibition 2023\n\n\n\n\n\n\n\n\n\n\n\nAug 2, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nAustralian Space Summit & Awards 2023\n\n\n\n\n\n\n\n\n\n\n\nMay 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nCapricorn Space and ESA New Norcia Site Visit\n\n\n\n\n\n\n\n\n\n\n\nMay 1, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nScience at Murujuga Symposium\n\n\n\n\n\n\n\n\n\n\n\nFeb 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nNASA Space Apps Challenge 2022\n\n\n\n\n\n\n\n\n\n\n\nOct 1, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nResBaz 2022\n\n\n\n\n\n\n\n\n\n\n\nSep 9, 2022\n\n\n\n\n\n\nNo matching items\n\n Back to top"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Calvin Pang",
-    "section": "",
-    "text": "About Me\nI’m Calvin, a seasoned professional with over seven years experience in conducting digital transformations across academia, government and industry. I am currently working as a Data Scientist, supporting projects for a variety of industries including defence, environmental science, health, mining and space. My specialisations include data visualisation, machine learning engineering, software development and specialist training.\nI am also involved in various STEM outreach initiatives in Western Australia, promoting the growth of the data science field.\n\n\nWork Experience\n\nData Scientist - Curtin Institute for Data Science\nJanuary 2022 - Present\n\n\nData Scientist - Australian Space Data Analytics Facility\nJanuary 2022 - Present\n\n\nSessional Academic - Curtin University\nMarch 2021 - Present\n\nTutor for Fundamentals of Programming (COMP1005/COMP5005) and Data Structures & Algorithms (COMP1002/COMP5008)\n\n\n\nContinuous Improvement Lead - Allied Dental & Centre for Prosthodontics\nMay 2018 - January 2022\n\n\nSupport Analyst - Kinetic IT\nJune 2016 - January 2018\n\n\n\nEducation\n\nMasters of Predictive Analytics - Curtin University\n\n\nBachelor of Chemical Engineering - University of Western Australia\n\n\nBachelor of Commerce - University of Western Australia\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "events/2022-10-01-NASASpaceApps/index.html",
-    "href": "events/2022-10-01-NASASpaceApps/index.html",
-    "title": "NASA Space Apps Challenge 2022",
-    "section": "",
-    "text": "The NASA Space Apps Challenge is a global hackathon to create solutions to challenges we face on Earth and in space. As part of the Curtin Institute for Computation, I competed in a team called the Flat Moon Society in Perth, Western Australia. We came first place in the local selection and received an honorable mention as global finalists.\n\n\n\nFlat Moon Society: Nick Swainston, Calvin Pang, Paul Hancock, Theodora Papdimatos, Trish Radotic, Leigh Tyers"
-  },
-  {
-    "objectID": "events/2022-10-01-NASASpaceApps/index.html#overview",
-    "href": "events/2022-10-01-NASASpaceApps/index.html#overview",
-    "title": "NASA Space Apps Challenge 2022",
-    "section": "",
-    "text": "The NASA Space Apps Challenge is a global hackathon to create solutions to challenges we face on Earth and in space. As part of the Curtin Institute for Computation, I competed in a team called the Flat Moon Society in Perth, Western Australia. We came first place in the local selection and received an honorable mention as global finalists.\n\n\n\nFlat Moon Society: Nick Swainston, Calvin Pang, Paul Hancock, Theodora Papdimatos, Trish Radotic, Leigh Tyers"
-  },
-  {
-    "objectID": "events/2022-10-01-NASASpaceApps/index.html#moonquake-emergency-warning-system",
-    "href": "events/2022-10-01-NASASpaceApps/index.html#moonquake-emergency-warning-system",
-    "title": "NASA Space Apps Challenge 2022",
-    "section": "Moonquake Emergency Warning System",
-    "text": "Moonquake Emergency Warning System\nOur solution, MEWS was the Moonquake Emergency Warning System.\n\nIt consists of three main components:\n\nA centralised and standardised database for the storage and dissemination of moonquake data;\nA visualisation tool (see demo below) of the 3D moonquake map that we developed to demonstrate the utility of the data as it would be used in one of our apps; and\nThe Moonquake Emergency Warning System (MEWS), the application of our3D moonquake mapping solution in the form of a three-tiered product that provides targeted information to educators, analysts, and remote operators."
-  },
-  {
-    "objectID": "events/2023-08-12-AntiConference/index.html",
-    "href": "events/2023-08-12-AntiConference/index.html",
-    "title": "National Science Week - Anti-Conference",
-    "section": "",
-    "text": "Pending Content\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "events/2023-05-17-AustralianSpaceSummit/index.html",
-    "href": "events/2023-05-17-AustralianSpaceSummit/index.html",
-    "title": "Australian Space Summit & Awards 2023",
-    "section": "",
-    "text": "Pending Content\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "events/2023-10-14-HealthHackathon/index.html",
-    "href": "events/2023-10-14-HealthHackathon/index.html",
-    "title": "WA Health Hackathon 2023",
-    "section": "",
-    "text": "The 2023 Health Hackathon hosted by WA Data Science Innovation Hub (WADSIH) and backed by the Department of Health, Microsoft, Department of WA North Metropolitan Health Service and WA Life Sciences Innovation Hub provides a platform for participants to address six pressing challenges in WA’s healthcare system.\n\nEnhancing the patient flow in Emergency Departments.\nStreamlining surgical and operational planning.\nUtilising non-health data to optimise Emergency Department operations.\nHolistic support for cancer patients through their medical journey.\nIntegration of AI and machine learning for clinical efficacy.\nRevolutionising patient interactions within healthcare processes.\n\nAlong with members from the Curtin Machine Learning Club, I competed in the hackathon as “Code Black Bravo” and created ECHO Copilot.\n\n\n\nCode Black Bravo: Calvin Pang, Peter Pandellis, Maxwell Morris, Milan Marocchi"
-  },
-  {
-    "objectID": "events/2023-10-14-HealthHackathon/index.html#overview",
-    "href": "events/2023-10-14-HealthHackathon/index.html#overview",
-    "title": "WA Health Hackathon 2023",
-    "section": "",
-    "text": "The 2023 Health Hackathon hosted by WA Data Science Innovation Hub (WADSIH) and backed by the Department of Health, Microsoft, Department of WA North Metropolitan Health Service and WA Life Sciences Innovation Hub provides a platform for participants to address six pressing challenges in WA’s healthcare system.\n\nEnhancing the patient flow in Emergency Departments.\nStreamlining surgical and operational planning.\nUtilising non-health data to optimise Emergency Department operations.\nHolistic support for cancer patients through their medical journey.\nIntegration of AI and machine learning for clinical efficacy.\nRevolutionising patient interactions within healthcare processes.\n\nAlong with members from the Curtin Machine Learning Club, I competed in the hackathon as “Code Black Bravo” and created ECHO Copilot.\n\n\n\nCode Black Bravo: Calvin Pang, Peter Pandellis, Maxwell Morris, Milan Marocchi"
-  },
-  {
-    "objectID": "events/2023-10-14-HealthHackathon/index.html#echo-copilot",
-    "href": "events/2023-10-14-HealthHackathon/index.html#echo-copilot",
-    "title": "WA Health Hackathon 2023",
-    "section": "ECHO Copilot",
-    "text": "ECHO Copilot\nIn emergency healthcare, every second counts, yet clinicians often spend a significant amount of time on administrative tasks, creating detailed clinical records. This leads to burnout, delays in patient care, and a potential for errors in documentation. Additionally, ensuring the integrity and security of patient data remains a challenge.\n Electronic Clinical Health Organiser (ECHO) is a cutting edge application powered by advanced speech recognition and natural language processing technologies. Our system seamlessly converts recorded audio input or scanned text into detailed clinical notes with precision in real-time.\nThis solution offers numerous benefits:\n\nTime-saving: Reduce administrative burden, allowing doctors and nurses to focus on patient care.\nAccuracy: Minimise errors in documentation, ensuring reliable patient records.\nImproved Patient Care: Enable healthcare professionals to make faster, informed decisions, enhancing patient outcomes."
+    "objectID": "events/2023-02-14-MurujugaSymposium/index.html#real-time-air-quality-monitoring-at-murujuga",
+    "href": "events/2023-02-14-MurujugaSymposium/index.html#real-time-air-quality-monitoring-at-murujuga",
+    "title": "Science at Murujuga Symposium",
+    "section": "Real-time Air Quality Monitoring at Murujuga",
+    "text": "Real-time Air Quality Monitoring at Murujuga\nA key aspect of the MRAMP involves deploying custom air quality monitoring stations at rock art sites to identify potential risks, such as pollution and climate change.\nAt the symposium, I had the opportunity to present my work titled “Real-time Air Quality Monitoring at Murujuga”. This covered the work done in establishing the infrastructure required to facilitate remote operation, data ingestion and real-time data visualisation for a bespoke air quality monitoring network developed to investigate the impacts of industrial emissions on heritage nominated indigenous petroglyphs."
   },
   {
     "objectID": "events/2022-09-08-ResBaz2022/index.html",

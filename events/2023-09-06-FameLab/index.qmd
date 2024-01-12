@@ -1,7 +1,17 @@
 ---
-title: "FameLab 2023"
+title: "FameLab Research Expo 2023"
 date: "2023-09-06"
 image: "Group_Photo.jpeg"
 ---
 
-Pending Content
+## Overview
+The Foundation for the WA Museum hosted FameLab Academy, the student version of the international science communication and training program, FameLab. It is an initiative for Years 9 and 10 students to encourage their interest in STEM and develop their science communications skills.
+
+## Research Expo
+The Australian Space Data Analysis Facility (ASDAF) were invited to host a booth at their Research Expo, as part of the 2023 FameLab Academy Final held in Perth.
+
+![](Group_Photo.jpeg)
+
+Here, we had to opportunity to discuss with potential STEM students on potential education pathways to get into the space and data science professions.
+
+![](Candid_Shot.jpeg)

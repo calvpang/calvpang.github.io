@@ -4,4 +4,22 @@ date: "2023-05-17"
 image: "Space_Summit_Banner.png"
 ---
 
-Pending Content
+## Overview
+The Australian Space Summit & Awards was back for its second consequetive year at the International Convention Centre Sydney to provide an opportunity to showcase Australia's space capabilities, from small and large businesses through to educational, government, commercial and industrial sectors.
+
+As part of the Australian Space Data Analysis Facility (ASDAF), nominated for "Business of the Year - SME", I had the opportunity to fly over to Sydney. This gave me the opportunity to learn more about Australia's space industry and network with diverse people from academia, defence, engineering and legal.
+
+## Australian Space Summit
+The Australian Space Summit kicked off with an industry update on the current state of play in the sector, followed by many presentations and booths showcasing the work of Australia's space sector.
+ 
+![WA Space Industry Representatives: AROSE, ISC, ASDAF, Fugro, Curtin University and others](WA_Group_Photo_Summit.jpeg)
+
+## Australian Space Awards
+ASDAF and ASDAF Director, Melanie Johnston-Hollitt were nominated for two awards at the Australian Space Awards 2023.
+
+- Business of the Year - SME
+- Executive of the Year
+
+Although we did not win, we had an amazing night at the awards gala!
+
+![WA Space Industry Representatives: AROSE, ISC, ASDAF, Fugro, Curtin University and others](WA_Group_Photo_Awards.png)
