@@ -4,4 +4,16 @@ date: "2023-08-12"
 image: "Poster.jpeg"
 ---
 
-Pending Content
+## Overview
+National Science Week held in August, is Australia's annual celebration of science and technology. For the event, Inspiring WA and The WA Coordinating Committee for National Science are hosting the inaugural Science Week Anti-Conference at WA Musuem Boola Bardip to promote STEM career opportunities for young adults in Western Australia.
+
+The Australian Space Data Analysis Facility (ASDAF) were approached by the Western Australian Department of Jobs, Tourism, Science. and Innovation (JTSI) to host an interactive session showcasing innovation in the space industry within Western Australia.
+
+## AstroQuest
+For the Anti-Conference, I helped developed and host [AstroQuest](https://www.canva.com/design/DAFo2tCstPU/CEjnsuPRWVM2ksZy-RkQYw/edit?utm_content=DAFo2tCstPU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) at the WA Museum Boola Bardip, a gameshow that takes participants on a choose-your-own-adventure tour across Western Australia's space-related facilities. 
+
+![Hosts: Leigh Tyers & Calvin Pang](AstroQuest.jpeg)
+
+We had many laughs as our contestants journeyed through various sites, soaking in fascinating information about the various facilities and completing a variety of bizarree challenges.  
+
+![AstroQuest Winners!](Winners.jpeg)
