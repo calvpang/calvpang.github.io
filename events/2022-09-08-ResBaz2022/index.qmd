@@ -4,4 +4,13 @@ date: "2022-09-09"
 image: "Technical_Training.jpeg"
 ---
 
-Pending Content
+## Overview
+Research Bazaar (RezBaz) events are held at university campuses across the globe to equip researchers from all career stages with the digital skills and tools required to do their research, better, faster and smarter.
+
+## Software Carpentries
+The Curtin Institute for Computation were asked to deliver training at the event and I was given the opportunity to become a certified [Carpentries](https://carpentries.org/index.html) Instructor and deliver a 2-day Data Carpentry Python workshop for ResBaz 2022 hosted at Curtin University.
+
+![](Teaching.jpeg)
+
+Many thanks my co-instructor Leigh Tyers and other helpers!
+![Keegan Smith, Carlo Martinotti, Leigh Tyers, Christian Proud, Calvin Pang](Group_Photo.jpeg)

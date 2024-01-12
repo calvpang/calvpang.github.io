@@ -4,4 +4,14 @@ date: "2023-02-14"
 image: "Symposium_Slide.png"
 ---
 
-Pending Content
+## Overview
+The Murujuga Rock Art Monitoring Program (MRAMP) is an initiative supported by the Department of Water and Environmental Regulation in partnership with Murujuga Aboriginal Corporation. The program aims to collect and collate data and information to enable informed decision making concerning the conservation of ancient rock art found in Murujuga, Western Australia. Its purpose is to monitor, evaluate and report on changes in the condition and integrity of the rock art to ensure that appropriate management responses can be taken by the Western Australian Government and various stakeholders to protect the significant cultural heritage site for future generations. 
+
+The Science at Murujuga Symposium was held at The University of Western Australia's Oceans Institute Auditorium on the 14th February 2023, the same date the World Heritage Nomination was formally submitted for Murujuga.
+
+## Real-time Air Quality Monitoring at Murujuga
+A key aspect of the MRAMP involves deploying custom air quality monitoring stations at rock art sites to identify potential risks, such as pollution and climate change. 
+
+At the symposium, I had the opportunity to present my work titled "Real-time Air Quality Monitoring at Murujuga". This covered the work done in establishing the infrastructure required to facilitate remote operation, data ingestion and real-time data visualisation for a bespoke air quality monitoring network developed to investigate the impacts of industrial emissions on heritage nominated indigenous petroglyphs.
+
+![](Calvin_Pang_Presenting.jpeg)

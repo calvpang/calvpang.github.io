@@ -1,9 +1,10 @@
 ---
-title: "2022 NASA Space Apps Challenge"
+title: "NASA Space Apps Challenge 2022"
 date: "2022-10-01"
 image: "FlatMoonSociety.png"
 ---
 
+## Overview
 The [NASA Space Apps Challenge](https://www-2022.spaceappschallenge.org/) is a global hackathon to create solutions to challenges we face on Earth and in space. As part of the Curtin Institute for Computation, I competed in a team called the [Flat Moon Society](https://2022.spaceappschallenge.org/challenges/2022-challenges/moonquake-map/teams/flat-moon-society-aus/project) in Perth, Western Australia. We came **first place** in the local selection and received an **honorable mention** as global finalists.
 
 ![*Flat Moon Society: Nick Swainston, Calvin Pang, Paul Hancock, Theodora Papdimatos, Trish Radotic, Leigh Tyers*](Team_Photo.jpeg){fig-align="center"}

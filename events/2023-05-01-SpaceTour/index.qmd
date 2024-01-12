@@ -4,4 +4,26 @@ date: "2023-05-01"
 image: "ESA_Flag.JPG"
 ---
 
-Pending Content
+## Overview
+Western Australia is home to a large number of space-related facilities. Notably, the Mingenew Space Precinct and the New Norcia Deep Space Ground Station. As part of the Australian Space Data Analysis Facility (ASDAF), I received the opportunity to visit our "backyard" and tour facilities at Capricorn Space, North Amercia Space Agency (NASA) and the European Space Agency (ESA). 
+
+## Capricorn Space
+Capricorn Space is an Australian privately owned and operated ground segement service provider for the space industry. They have recently opened their ground station within a 35 hectare site at the Mingenew Space Precinct.
+
+We had the opportunity to meet with the CEO, Mark Thompson and explore their S/X-Band antenna systems being used to provide services to major global satellite constellation operators.
+
+![Capricorn Space Ground Stations](Capricorn_Space.JPG)
+
+## Yarragadee Geodetic Observatory Station
+The Yarragadee Geodetic Observatory Station was originally built by NASA in the 1979 and is now operated by Geoscience Australia. The station used to measure the relationship between Earth and various satellites to support Positioning, Navigation and Timing technology, and is is monitored 24/7.
+
+![](MOBLAS_5.JPG)
+
+## New Norcia Deep Space Ground Station
+New Norcia, Western Australia hosts one of only three European Space Agency (ESA) Deep Space Ground Stations. It is locally operated by CSIRO and plays a vital role in ESA's global tracking station network, providing crucial support to ESA's rocket launches and sattelite missions.
+
+Hosted by Suzie Jackson, we were given the opportunity to tour the site and enter the massive Deep Space Antenna where we learnt about aerogel and the various redundant systems the have in place.
+
+![](ESA_Deep_Space.JPG)
+
+![](ESA_Deep_Space_Calvin.JPG)
