@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.433">
+<meta name="generator" content="quarto-1.4.549">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -49,7 +49,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -58,6 +64,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -96,6 +103,33 @@ ul.task-list li input[type="checkbox"] {
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
 <link rel="stylesheet" href="styles.css">
 </head>
 
@@ -103,7 +137,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
             <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -112,24 +146,25 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
- <span class="menu-text">Home</span></a>
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects.html" rel="" target="">
- <span class="menu-text">Projects</span></a>
+    <a class="nav-link" href="./projects.html"> 
+<span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./events.html" rel="" target="" aria-current="page">
- <span class="menu-text">Events</span></a>
+    <a class="nav-link active" href="./events.html" aria-current="page"> 
+<span class="menu-text">Events</span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools ms-auto tools-wide">
-    <a href="https://github.com/calvpang" rel="" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-github"></i></a>
-    <a href="https://www.linkedin.com/in/calv-pang/" rel="" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-linkedin"></i></a>
+          </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools tools-wide">
+    <a href="mailto:hello@calvinpang.net" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-send"></i></a>
+    <a href="https://github.com/calvpang" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-github"></i></a>
+    <a href="https://www.linkedin.com/in/calv-pang/" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-linkedin"></i></a>
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
-          </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -150,7 +185,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page">
 
     
   
@@ -158,7 +193,9 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
+
 
 
 
@@ -187,275 +224,275 @@ ul.task-list li input[type="checkbox"] {
   </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1701187200000" data-listing-file-modified-sort="1706501380471" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1701187200000" data-listing-file-modified-sort="1706504214496" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="99">
 <div class="thumbnail">
-<p><a href="./events/2023-11-29-DataCarpentry/index.html"> <img src="./events/2023-11-29-DataCarpentry/Instructor_Photo.jpeg" class="thumbnail-image"> </a></p>
+<p><a href="./events/2023-11-29-DataCarpentry/index.html" class="no-external"></a></p><a href="./events/2023-11-29-DataCarpentry/index.html" class="no-external">
+<p><img src="./events/2023-11-29-DataCarpentry/Instructor_Photo.jpeg" class="thumbnail-image"></p>
+</a><p><a href="./events/2023-11-29-DataCarpentry/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./events/2023-11-29-DataCarpentry/index.html">
 <h3 class="no-anchor listing-title">
-Data Carpentries Training - Python Workshop
+<a href="./events/2023-11-29-DataCarpentry/index.html" class="no-external">Data Carpentries Training - Python Workshop</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./events/2023-11-29-DataCarpentry/index.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-The Curtin Institute for Data Science hosts Data Carpentry Workshops twice a year to assist in The Carpentries’ mission to build global capacity in…
+<a href="./events/2023-11-29-DataCarpentry/index.html" class="no-external">The Curtin Institute for Data Science hosts Data Carpentry Workshops twice a year to assist in The Carpentries’ mission to build global capacity in essential data and…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./events/2023-11-29-DataCarpentry/index.html">
+<a href="./events/2023-11-29-DataCarpentry/index.html" class="no-external">
 <div class="listing-date">
 Nov 29, 2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1700236800000" data-listing-file-modified-sort="1706501380470" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1700236800000" data-listing-file-modified-sort="1706504214495" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="93">
 <div class="thumbnail">
-<p><a href="./events/2023-11-18-Astrofest/index.html"> <img src="./events/2023-11-18-Astrofest/Candid_Shot_2.jpeg" class="thumbnail-image"> </a></p>
+<p><a href="./events/2023-11-18-Astrofest/index.html" class="no-external"></a></p><a href="./events/2023-11-18-Astrofest/index.html" class="no-external">
+<p><img src="./events/2023-11-18-Astrofest/Candid_Shot_2.jpeg" class="thumbnail-image"></p>
+</a><p><a href="./events/2023-11-18-Astrofest/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./events/2023-11-18-Astrofest/index.html">
 <h3 class="no-anchor listing-title">
-Astrofest 2023
+<a href="./events/2023-11-18-Astrofest/index.html" class="no-external">Astrofest 2023</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./events/2023-11-18-Astrofest/index.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-Astrofest is an annual event to provide astronomy enthusiasts, families, and the public to explore the…
+<a href="./events/2023-11-18-Astrofest/index.html" class="no-external">Astrofest is an annual event to provide astronomy enthusiasts, families, and the public to explore the mysteries of the Universe. Major sponsors include: Curtin University…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./events/2023-11-18-Astrofest/index.html">
+<a href="./events/2023-11-18-Astrofest/index.html" class="no-external">
 <div class="listing-date">
 Nov 18, 2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1697212800000" data-listing-file-modified-sort="1706501380468" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1697212800000" data-listing-file-modified-sort="1706504214489" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="249">
 <div class="thumbnail">
-<p><a href="./events/2023-10-14-HealthHackathon/index.html"> <img src="./events/2023-10-14-HealthHackathon/ECHO_Slide.png" class="thumbnail-image"> </a></p>
+<p><a href="./events/2023-10-14-HealthHackathon/index.html" class="no-external"></a></p><a href="./events/2023-10-14-HealthHackathon/index.html" class="no-external">
+<p><img src="./events/2023-10-14-HealthHackathon/ECHO_Slide.png" class="thumbnail-image"></p>
+</a><p><a href="./events/2023-10-14-HealthHackathon/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./events/2023-10-14-HealthHackathon/index.html">
 <h3 class="no-anchor listing-title">
-WA Health Hackathon 2023
+<a href="./events/2023-10-14-HealthHackathon/index.html" class="no-external">WA Health Hackathon 2023</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./events/2023-10-14-HealthHackathon/index.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-The 2023 Health Hackathon hosted by WA Data Science Innovation Hub (WADSIH) and backed by the Department of Health, Microsoft…
+<a href="./events/2023-10-14-HealthHackathon/index.html" class="no-external">The 2023 Health Hackathon hosted by WA Data Science Innovation Hub (WADSIH) and backed by the Department of Health, Microsoft, Department of WA North Metropolitan Health…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./events/2023-10-14-HealthHackathon/index.html">
+<a href="./events/2023-10-14-HealthHackathon/index.html" class="no-external">
 <div class="listing-date">
 Oct 14, 2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1693929600000" data-listing-file-modified-sort="1706501380461" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1693929600000" data-listing-file-modified-sort="1706504214482" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="95">
 <div class="thumbnail">
-<p><a href="./events/2023-09-06-FameLab/index.html"> <img src="./events/2023-09-06-FameLab/Group_Photo.jpeg" class="thumbnail-image"> </a></p>
+<p><a href="./events/2023-09-06-FameLab/index.html" class="no-external"></a></p><a href="./events/2023-09-06-FameLab/index.html" class="no-external">
+<p><img src="./events/2023-09-06-FameLab/Group_Photo.jpeg" class="thumbnail-image"></p>
+</a><p><a href="./events/2023-09-06-FameLab/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./events/2023-09-06-FameLab/index.html">
 <h3 class="no-anchor listing-title">
-FameLab Research Expo 2023
+<a href="./events/2023-09-06-FameLab/index.html" class="no-external">FameLab Research Expo 2023</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./events/2023-09-06-FameLab/index.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-The Foundation for the WA Museum hosted FameLab Academy, the student version of the international science…
+<a href="./events/2023-09-06-FameLab/index.html" class="no-external">The Foundation for the WA Museum hosted FameLab Academy, the student version of the international science communication and training program, FameLab. It is an initiative…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./events/2023-09-06-FameLab/index.html">
+<a href="./events/2023-09-06-FameLab/index.html" class="no-external">
 <div class="listing-date">
 Sep 6, 2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1691769600000" data-listing-file-modified-sort="1706501380458" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1691769600000" data-listing-file-modified-sort="1706504214479" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="147">
 <div class="thumbnail">
-<p><a href="./events/2023-08-12-AntiConference/index.html"> <img src="./events/2023-08-12-AntiConference/Poster.jpeg" class="thumbnail-image"> </a></p>
+<p><a href="./events/2023-08-12-AntiConference/index.html" class="no-external"></a></p><a href="./events/2023-08-12-AntiConference/index.html" class="no-external">
+<p><img src="./events/2023-08-12-AntiConference/Poster.jpeg" class="thumbnail-image"></p>
+</a><p><a href="./events/2023-08-12-AntiConference/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./events/2023-08-12-AntiConference/index.html">
 <h3 class="no-anchor listing-title">
-National Science Week - Anti-Conference
+<a href="./events/2023-08-12-AntiConference/index.html" class="no-external">National Science Week - Anti-Conference</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./events/2023-08-12-AntiConference/index.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-National Science Week held in August, is Australia’s annual celebration of science and technology. For the event, Inspiring WA and The WA Coordinating Committee…
+<a href="./events/2023-08-12-AntiConference/index.html" class="no-external">National Science Week held in August, is Australia’s annual celebration of science and technology. For the event, Inspiring WA and The WA Coordinating Committee for National…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./events/2023-08-12-AntiConference/index.html">
+<a href="./events/2023-08-12-AntiConference/index.html" class="no-external">
 <div class="listing-date">
 Aug 12, 2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1690905600000" data-listing-file-modified-sort="1706501380456" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1690905600000" data-listing-file-modified-sort="1706504214473" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="119">
 <div class="thumbnail">
-<p><a href="./events/2023-08-02-WADSIHConference/index.html"> <img src="./events/2023-08-02-WADSIHConference/WADSIH_Poster.jpeg" class="thumbnail-image"> </a></p>
+<p><a href="./events/2023-08-02-WADSIHConference/index.html" class="no-external"></a></p><a href="./events/2023-08-02-WADSIHConference/index.html" class="no-external">
+<p><img src="./events/2023-08-02-WADSIHConference/WADSIH_Poster.jpeg" class="thumbnail-image"></p>
+</a><p><a href="./events/2023-08-02-WADSIHConference/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./events/2023-08-02-WADSIHConference/index.html">
 <h3 class="no-anchor listing-title">
-Data &amp; AI for Business Conference &amp; Exhibition 2023
+<a href="./events/2023-08-02-WADSIHConference/index.html" class="no-external">Data &amp; AI for Business Conference &amp; Exhibition 2023</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./events/2023-08-02-WADSIHConference/index.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-The Data &amp; AI for Business Conference &amp; Exhibition 2023 hosted by WA Data Science Innovation Hub…
+<a href="./events/2023-08-02-WADSIHConference/index.html" class="no-external">The Data &amp; AI for Business Conference &amp; Exhibition 2023 hosted by WA Data Science Innovation Hub (WADSIH) is a 2-day event which provided an invaluable opportunity to listen…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./events/2023-08-02-WADSIHConference/index.html">
+<a href="./events/2023-08-02-WADSIHConference/index.html" class="no-external">
 <div class="listing-date">
 Aug 2, 2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-listing-date-sort="1684252800000" data-listing-file-modified-sort="1706501380453" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="6" data-listing-date-sort="1684252800000" data-listing-file-modified-sort="1706504214471" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="189">
 <div class="thumbnail">
-<p><a href="./events/2023-05-17-AustralianSpaceSummit/index.html"> <img src="./events/2023-05-17-AustralianSpaceSummit/Space_Summit_Banner.png" class="thumbnail-image"> </a></p>
+<p><a href="./events/2023-05-17-AustralianSpaceSummit/index.html" class="no-external"></a></p><a href="./events/2023-05-17-AustralianSpaceSummit/index.html" class="no-external">
+<p><img src="./events/2023-05-17-AustralianSpaceSummit/Space_Summit_Banner.png" class="thumbnail-image"></p>
+</a><p><a href="./events/2023-05-17-AustralianSpaceSummit/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./events/2023-05-17-AustralianSpaceSummit/index.html">
 <h3 class="no-anchor listing-title">
-Australian Space Summit &amp; Awards 2023
+<a href="./events/2023-05-17-AustralianSpaceSummit/index.html" class="no-external">Australian Space Summit &amp; Awards 2023</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./events/2023-05-17-AustralianSpaceSummit/index.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-The Australian Space Summit &amp; Awards was back for its second consequetive year at the International Convention Centre…
+<a href="./events/2023-05-17-AustralianSpaceSummit/index.html" class="no-external">The Australian Space Summit &amp; Awards was back for its second consequetive year at the International Convention Centre Sydney to provide an opportunity to showcase…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./events/2023-05-17-AustralianSpaceSummit/index.html">
+<a href="./events/2023-05-17-AustralianSpaceSummit/index.html" class="no-external">
 <div class="listing-date">
 May 17, 2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-listing-date-sort="1682870400000" data-listing-file-modified-sort="1706501380425" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="quarto-post image-right" data-index="7" data-listing-date-sort="1682870400000" data-listing-file-modified-sort="1706504214442" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="254">
 <div class="thumbnail">
-<p><a href="./events/2023-05-01-SpaceTour/index.html"> <img src="./events/2023-05-01-SpaceTour/ESA_Flag.JPG" class="thumbnail-image"> </a></p>
+<p><a href="./events/2023-05-01-SpaceTour/index.html" class="no-external"></a></p><a href="./events/2023-05-01-SpaceTour/index.html" class="no-external">
+<p><img src="./events/2023-05-01-SpaceTour/ESA_Flag.JPG" class="thumbnail-image"></p>
+</a><p><a href="./events/2023-05-01-SpaceTour/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./events/2023-05-01-SpaceTour/index.html">
 <h3 class="no-anchor listing-title">
-Capricorn Space and ESA New Norcia Site Visit
+<a href="./events/2023-05-01-SpaceTour/index.html" class="no-external">Capricorn Space and ESA New Norcia Site Visit</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./events/2023-05-01-SpaceTour/index.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-Western Australia is home to a large number of space-related facilities. Notably, the Mingenew Space Precinct and the New Norcia Deep Space Ground Station. As part of the…
+<a href="./events/2023-05-01-SpaceTour/index.html" class="no-external">Western Australia is home to a large number of space-related facilities. Notably, the Mingenew Space Precinct and the New Norcia Deep Space Ground Station. As part of the…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./events/2023-05-01-SpaceTour/index.html">
+<a href="./events/2023-05-01-SpaceTour/index.html" class="no-external">
 <div class="listing-date">
 May 1, 2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-listing-date-sort="1676304000000" data-listing-file-modified-sort="1706501380394" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="quarto-post image-right" data-index="8" data-listing-date-sort="1676304000000" data-listing-file-modified-sort="1706504214409" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="221">
 <div class="thumbnail">
-<p><a href="./events/2023-02-14-MurujugaSymposium/index.html"> <img src="./events/2023-02-14-MurujugaSymposium/Symposium_Slide.png" class="thumbnail-image"> </a></p>
+<p><a href="./events/2023-02-14-MurujugaSymposium/index.html" class="no-external"></a></p><a href="./events/2023-02-14-MurujugaSymposium/index.html" class="no-external">
+<p><img src="./events/2023-02-14-MurujugaSymposium/Symposium_Slide.png" class="thumbnail-image"></p>
+</a><p><a href="./events/2023-02-14-MurujugaSymposium/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./events/2023-02-14-MurujugaSymposium/index.html">
 <h3 class="no-anchor listing-title">
-Science at Murujuga Symposium
+<a href="./events/2023-02-14-MurujugaSymposium/index.html" class="no-external">Science at Murujuga Symposium</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./events/2023-02-14-MurujugaSymposium/index.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-The Murujuga Rock Art Monitoring Program (MRAMP) is an initiative supported by the Department of Water and Environmental Regulation in partnership with Murujuga Aboriginal…
+<a href="./events/2023-02-14-MurujugaSymposium/index.html" class="no-external">The Murujuga Rock Art Monitoring Program (MRAMP) is an initiative supported by the Department of Water and Environmental Regulation in partnership with Murujuga Aboriginal…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./events/2023-02-14-MurujugaSymposium/index.html">
+<a href="./events/2023-02-14-MurujugaSymposium/index.html" class="no-external">
 <div class="listing-date">
 Feb 14, 2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="9" data-listing-date-sort="1664553600000" data-listing-file-modified-sort="1706501380373" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="9" data-listing-date-sort="1664553600000" data-listing-file-modified-sort="1706504214400" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="169">
 <div class="thumbnail">
-<p><a href="./events/2022-10-01-NASASpaceApps/index.html"> <img src="./events/2022-10-01-NASASpaceApps/FlatMoonSociety.png" class="thumbnail-image"> </a></p>
+<p><a href="./events/2022-10-01-NASASpaceApps/index.html" class="no-external"></a></p><a href="./events/2022-10-01-NASASpaceApps/index.html" class="no-external">
+<p><img src="./events/2022-10-01-NASASpaceApps/FlatMoonSociety.png" class="thumbnail-image"></p>
+</a><p><a href="./events/2022-10-01-NASASpaceApps/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./events/2022-10-01-NASASpaceApps/index.html">
 <h3 class="no-anchor listing-title">
-NASA Space Apps Challenge 2022
+<a href="./events/2022-10-01-NASASpaceApps/index.html" class="no-external">NASA Space Apps Challenge 2022</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./events/2022-10-01-NASASpaceApps/index.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-The NASA Space Apps Challenge is a global…<strong></strong><strong></strong>
+<a href="./events/2022-10-01-NASASpaceApps/index.html" class="no-external">The NASA Space Apps Challenge is a global hackathon to create solutions to challenges we face on Earth and in space. As part of the Curtin Institute for Computation, I…<strong></strong><strong></strong></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./events/2022-10-01-NASASpaceApps/index.html">
+<a href="./events/2022-10-01-NASASpaceApps/index.html" class="no-external">
 <div class="listing-date">
 Oct 1, 2022
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="10" data-listing-date-sort="1662652800000" data-listing-file-modified-sort="1706501380315" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="10" data-listing-date-sort="1662652800000" data-listing-file-modified-sort="1706504214330" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="92">
 <div class="thumbnail">
-<p><a href="./events/2022-09-08-ResBaz2022/index.html"> <img src="./events/2022-09-08-ResBaz2022/Technical_Training.jpeg" class="thumbnail-image"> </a></p>
+<p><a href="./events/2022-09-08-ResBaz2022/index.html" class="no-external"></a></p><a href="./events/2022-09-08-ResBaz2022/index.html" class="no-external">
+<p><img src="./events/2022-09-08-ResBaz2022/Technical_Training.jpeg" class="thumbnail-image"></p>
+</a><p><a href="./events/2022-09-08-ResBaz2022/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./events/2022-09-08-ResBaz2022/index.html">
 <h3 class="no-anchor listing-title">
-ResBaz 2022
+<a href="./events/2022-09-08-ResBaz2022/index.html" class="no-external">ResBaz 2022</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./events/2022-09-08-ResBaz2022/index.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-Research Bazaar (RezBaz) events are held…
+<a href="./events/2022-09-08-ResBaz2022/index.html" class="no-external">Research Bazaar (RezBaz) events are held at university campuses across the globe to equip researchers from all career stages with the digital skills and tools required to do…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./events/2022-09-08-ResBaz2022/index.html">
+<a href="./events/2022-09-08-ResBaz2022/index.html" class="no-external">
 <div class="listing-date">
 Sep 9, 2022
 </div>
@@ -508,6 +545,33 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       } else {
         el.classList.add('notransition');
       }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
     }
   }
   const toggleColorMode = (alternate) => {
@@ -576,13 +640,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return localAlternateSentinel;
     }
   }
-  let localAlternateSentinel = 'default';
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
   // Dark / light mode switch
   window.quartoToggleColorScheme = () => {
     // Read the current dark / light value 
     let toAlternate = !hasAlternateSentinel();
     toggleColorMode(toAlternate);
     setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
   };
   // Ensure there is a toggle, if there isn't float one in the top right
   if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
@@ -661,10 +727,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -674,8 +739,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -688,6 +762,125 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -731,6 +924,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -756,6 +950,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -821,12 +1041,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-left">
       &nbsp;
     </div>   
-    <div class="nav-footer-center">Copyright 2024, Calvin Pang</div>
+    <div class="nav-footer-center">
+<p>Copyright 2024, Calvin Pang</p>
+</div>
     <div class="nav-footer-right">
       &nbsp;
     </div>
   </div>
 </footer>
+
 
 
 
