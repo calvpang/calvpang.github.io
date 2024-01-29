@@ -6,9 +6,6 @@ about:
     template: marquee
     image-width: 15em
     links:
-      - icon: send
-        text: Email
-        href: hello@calvinpang.net
       - icon: github
         text: Github
         href: https://github.com/calvpang
