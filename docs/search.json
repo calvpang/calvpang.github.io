@@ -112,34 +112,6 @@
     "text": "Moonquake Emergency Warning System\nOur solution, MEWS was the Moonquake Emergency Warning System.\n\nIt consists of three main components:\n\nA centralised and standardised database for the storage and dissemination of moonquake data;\nA visualisation tool (see demo below) of the 3D moonquake map that we developed to demonstrate the utility of the data as it would be used in one of our apps; and\nThe Moonquake Emergency Warning System (MEWS), the application of our3D moonquake mapping solution in the form of a three-tiered product that provides targeted information to educators, analysts, and remote operators."
   },
   {
-    "objectID": "events/2023-11-29-DataCarpentry/index.html",
-    "href": "events/2023-11-29-DataCarpentry/index.html",
-    "title": "Data Carpentries Training - Python Workshop",
-    "section": "",
-    "text": "Overview\nThe Curtin Institute for Data Science hosts Data Carpentry Workshops twice a year to assist in The Carpentries’ mission to build global capacity in essential data and computational skills for research. These workshops aim to provide hands-on teaching and assistance on Git, Python and R to Curtin University researchers and staff.\n\n\nPython Workshop\nThis time around, I received the opportunity to re-write the training material for the Python workshop and had the pleasure to instruct with Nancy Tippaya. Many thanks to the helpers involved!\n\n\n\nInstructors & Helpers: Calvin Pang, Leigh Tyers, Nancy Tippaya, Christian Proud\n\n\nThe workshop material can be found here.\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Australian Space Data Analysis Facility - Eyes on Australian Forests\nCurtin Institute for Data Science - Introduction to Data Science using Python\nMoonquake Emergency Warning System (MEWS)\nBushfire Smoke Data sharing with netCDF\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "Events",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\nData Carpentries Training - Python Workshop\n\n\n\n\n\n\n\n\n\n\n\nNov 29, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nAstrofest 2023\n\n\n\n\n\n\n\n\n\n\n\nNov 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nWA Health Hackathon 2023\n\n\n\n\n\n\n\n\n\n\n\nOct 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nFameLab Research Expo 2023\n\n\n\n\n\n\n\n\n\n\n\nSep 6, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nNational Science Week - Anti-Conference\n\n\n\n\n\n\n\n\n\n\n\nAug 12, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nData & AI for Business Conference & Exhibition 2023\n\n\n\n\n\n\n\n\n\n\n\nAug 2, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nAustralian Space Summit & Awards 2023\n\n\n\n\n\n\n\n\n\n\n\nMay 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nCapricorn Space and ESA New Norcia Site Visit\n\n\n\n\n\n\n\n\n\n\n\nMay 1, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nScience at Murujuga Symposium\n\n\n\n\n\n\n\n\n\n\n\nFeb 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nNASA Space Apps Challenge 2022\n\n\n\n\n\n\n\n\n\n\n\nOct 1, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nResBaz 2022\n\n\n\n\n\n\n\n\n\n\n\nSep 9, 2022\n\n\n\n\n\n\nNo matching items\n\n Back to top"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Calvin Pang",
-    "section": "",
-    "text": "About Me\nI’m Calvin, a seasoned professional with over seven years experience in conducting digital transformations across academia, government and industry. I am currently working as a Data Scientist, supporting projects for a variety of industries including defence, environmental science, health, mining and space. My specialisations include data visualisation, machine learning engineering, software development and specialist training.\nI am also involved in various STEM outreach initiatives in Western Australia, promoting the growth of the data science field.\n\n\nWork Experience\n\nData Scientist - Curtin Institute for Data Science\nJanuary 2022 - Present\n\n\nData Scientist - Australian Space Data Analytics Facility\nJanuary 2022 - Present\n\n\nSessional Academic - Curtin University\nMarch 2021 - Present\n\n\nProcess Improvement Manager - Allied Dental & Centre for Prosthodontics\nMay 2018 - January 2022\n\n\nSupport Analyst - Kinetic IT\nJune 2016 - January 2018\n\n\n\nEducation\n\nMasters of Predictive Analytics - Curtin University\n\n\nBachelor of Chemical Engineering - University of Western Australia\n\n\nBachelor of Commerce - University of Western Australia\n\n\n\n\n Back to top"
-  },
-  {
     "objectID": "events/2023-08-02-WADSIHConference/index.html",
     "href": "events/2023-08-02-WADSIHConference/index.html",
     "title": "Data & AI for Business Conference & Exhibition 2023",
@@ -159,6 +131,62 @@
     "title": "Data & AI for Business Conference & Exhibition 2023",
     "section": "Curtin Institute for Data Science & ASDAF Booth",
     "text": "Curtin Institute for Data Science & ASDAF Booth\nAs a part of the Curtin Institute for Data Science and Australian Space Data Analytics Facility (ASDAF), I manned the booth and had plenty of opportunities to meet and engage with industry professionals and students within the data science and AI space.\n\n\n\nCIDS Team: Paul Hancock, Calvin Pang, Paul Kim, Trish Radotic, Melanie Johnston-Hollitt, Leah Riungu-Kalliosaari, Christian Proud, Leigh Tyers\n\n\n\n\n\nMaxwell Morris, Calvin Pang, Christian Proud"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Calvin Pang",
+    "section": "",
+    "text": "About Me\nI’m Calvin, a seasoned professional with over seven years experience in conducting digital transformations across academia, government and industry. I am currently working as a Data Scientist, supporting projects for a variety of industries including defence, environmental science, health, mining and space. My specialisations include data visualisation, machine learning engineering, software development and specialist training.\nI am also involved in various STEM outreach initiatives in Western Australia, promoting the growth of the data science field.\n\n\nWork Experience\n\nData Scientist - Curtin Institute for Data Science\nJanuary 2022 - Present\n\n\nData Scientist - Australian Space Data Analytics Facility\nJanuary 2022 - Present\n\n\nSessional Academic - Curtin University\nMarch 2021 - Present\n\n\nProcess Improvement Manager - Allied Dental & Centre for Prosthodontics\nMay 2018 - January 2022\n\n\nSupport Analyst - Kinetic IT\nJune 2016 - January 2018\n\n\n\nEducation\n\nMasters of Predictive Analytics - Curtin University\n\n\nBachelor of Chemical Engineering - University of Western Australia\n\n\nBachelor of Commerce - University of Western Australia\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\nAustralian Space Summit & Awards 2024\n\n\n\n\n\n\n\n\n\n\n\nMay 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nData Carpentries Training - Python Workshop\n\n\n\n\n\n\n\n\n\n\n\nNov 29, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nAstrofest 2023\n\n\n\n\n\n\n\n\n\n\n\nNov 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nWA Health Hackathon 2023\n\n\n\n\n\n\n\n\n\n\n\nOct 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nFameLab Research Expo 2023\n\n\n\n\n\n\n\n\n\n\n\nSep 6, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nNational Science Week - Anti-Conference\n\n\n\n\n\n\n\n\n\n\n\nAug 12, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nData & AI for Business Conference & Exhibition 2023\n\n\n\n\n\n\n\n\n\n\n\nAug 2, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nAustralian Space Summit & Awards 2023\n\n\n\n\n\n\n\n\n\n\n\nMay 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nCapricorn Space and ESA New Norcia Site Visit\n\n\n\n\n\n\n\n\n\n\n\nMay 1, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nScience at Murujuga Symposium\n\n\n\n\n\n\n\n\n\n\n\nFeb 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nNASA Space Apps Challenge 2022\n\n\n\n\n\n\n\n\n\n\n\nOct 1, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nResBaz 2022\n\n\n\n\n\n\n\n\n\n\n\nSep 9, 2022\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Australian Space Data Analysis Facility - Eyes on Australian Forests\nCurtin Institute for Data Science - Introduction to Data Science using Python\nMoonquake Emergency Warning System (MEWS)\nBushfire Smoke Data sharing with netCDF\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "events/2023-11-29-DataCarpentry/index.html",
+    "href": "events/2023-11-29-DataCarpentry/index.html",
+    "title": "Data Carpentries Training - Python Workshop",
+    "section": "",
+    "text": "Overview\nThe Curtin Institute for Data Science hosts Data Carpentry Workshops twice a year to assist in The Carpentries’ mission to build global capacity in essential data and computational skills for research. These workshops aim to provide hands-on teaching and assistance on Git, Python and R to Curtin University researchers and staff.\n\n\nPython Workshop\nThis time around, I received the opportunity to re-write the training material for the Python workshop and had the pleasure to instruct with Nancy Tippaya. Many thanks to the helpers involved!\n\n\n\nInstructors & Helpers: Calvin Pang, Leigh Tyers, Nancy Tippaya, Christian Proud\n\n\nThe workshop material can be found here.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "events/2024-05-28-AustralianSpaceSummit/index.html",
+    "href": "events/2024-05-28-AustralianSpaceSummit/index.html",
+    "title": "Australian Space Summit & Awards 2024",
+    "section": "",
+    "text": "The Australian Space Summit & Awards was back for its third consequetive year at the International Convention Centre Sydney and The Star Casino to provide an opportunity to showcase Australia’s space capabilities.\nAs part of the Australian Space Data Analysis Facility (ASDAF), nominated for “Earth Observation Program of the Year”, I had the opportunity to fly over to Sydney. This gave me the opportunity to learn more about Australia’s space industry and network with diverse people from academia, engineering and government."
+  },
+  {
+    "objectID": "events/2024-05-28-AustralianSpaceSummit/index.html#overview",
+    "href": "events/2024-05-28-AustralianSpaceSummit/index.html#overview",
+    "title": "Australian Space Summit & Awards 2024",
+    "section": "",
+    "text": "The Australian Space Summit & Awards was back for its third consequetive year at the International Convention Centre Sydney and The Star Casino to provide an opportunity to showcase Australia’s space capabilities.\nAs part of the Australian Space Data Analysis Facility (ASDAF), nominated for “Earth Observation Program of the Year”, I had the opportunity to fly over to Sydney. This gave me the opportunity to learn more about Australia’s space industry and network with diverse people from academia, engineering and government."
+  },
+  {
+    "objectID": "events/2024-05-28-AustralianSpaceSummit/index.html#australian-space-summit",
+    "href": "events/2024-05-28-AustralianSpaceSummit/index.html#australian-space-summit",
+    "title": "Australian Space Summit & Awards 2024",
+    "section": "Australian Space Summit",
+    "text": "Australian Space Summit\nThe Australian Space Summit kicked off with an industry update on the current state of play in the sector, followed by many presentations and booths showcasing the work of Australia’s space sector."
+  },
+  {
+    "objectID": "events/2024-05-28-AustralianSpaceSummit/index.html#australian-space-awards",
+    "href": "events/2024-05-28-AustralianSpaceSummit/index.html#australian-space-awards",
+    "title": "Australian Space Summit & Awards 2024",
+    "section": "Australian Space Awards",
+    "text": "Australian Space Awards\nASDAF and ASDAF Director, Melanie Johnston-Hollitt were nominated for two awards at the Australian Space Awards 2024.\n\nEarth Observation Program of the Year\nExecutive of the Year\n\n\n\n\nASDAF Representatives\n\n\nAlthough we did not win, we had an amazing night at the awards gala! Congratulations to our collegues at the Curtin Institute of Radio Astronomy (CIRA) who won “Academic Research Team of the Year”.\n\n\n\nCurtin University - Academic Research Team of the Year"
   },
   {
     "objectID": "events/2023-11-18-Astrofest/index.html",
