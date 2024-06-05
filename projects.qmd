@@ -2,6 +2,7 @@
 title: "Projects"
 ---
 
+- [Australian Space Data Analysis Facility - Eyes on Australian Forests](https://github.com/AustralianSDAF/EoAF)
 - [Curtin Institute for Data Science - Introduction to Data Science using Python](https://github.com/CurtinIDS/CIC_Carpentries_Python)
 - [Moonquake Emergency Warning System (MEWS)](https://github.com/calvpang/MEWS)
 - [Bushfire Smoke Data sharing with netCDF](https://github.com/cardat/air-health-bushfire-smoke-netcdf)
